@@ -1,23 +1,14 @@
 /** 
-	Copyright (c) 2025 Kirigen LLC.
+	Copyright (c) 2025 Kirigen LLC. All rights reserved.
+  
+	This source code is licensed under the Kirigen Non-Commercial License v1.0
+	that can be found in the LICENSE file in the root directory.
 
-	Permission is hereby granted, free of charge, to any person obtaining a copy
-	of this software and associated documentation files (the "Software"), to deal
-	in the Software without restriction, including without limitation the rights
-	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-	copies of the Software, and to permit persons to whom the Software is
-	furnished to do so, subject to the following conditions:
+   	Non-commercial use is permitted subject to revenue (<$1M), valuation (<$5M),
+	funding (<$2M), and user (<100K MAU) thresholds. Commercial use requires
+	a separate license (contact: licensing@kirigen.co).
 
-	The above copyright notice and this permission notice shall be included in all
-	copies or substantial portions of the Software.
-
-	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-	SOFTWARE.
+   	This is an Unreal Engine plugin and must comply with the Unreal Engine EULA.
 */
 
 
