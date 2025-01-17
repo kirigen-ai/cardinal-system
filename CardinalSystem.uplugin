@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CardinalSystem",
+	"Description": "An Generative AI Plugin for Unreal Engine 5 applications",
+	"Category": "AI",
+	"CreatedBy": "Kirigen",
+	"CreatedByURL": "www.kirigen.co/about-us",
+	"DocsURL": "www.kirigen.co/docs/en-us/cardinal-system",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CardinalSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
