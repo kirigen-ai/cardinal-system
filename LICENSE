@@ -1,21 +1,370 @@
-MIT License
+Kirigen Non-Commercial License v1.0
 
-Copyright (c) 2025 Kirigen LLC.
+Copyright (c) 2025 Kirigen LLC. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+NOTICE: This Software is proprietary to Kirigen LLC and is protected by copyright laws and international treaty provisions. Unauthorized reproduction or distribution of this Software, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under law.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+IMPORTANT: This Software is a plugin for Unreal Engine. Your use of Unreal Engine is governed by the Unreal® Engine End User License Agreement. This license neither supersedes nor circumvents any terms or conditions of the Unreal® Engine EULA. You must comply with both this license and the Unreal® Engine EULA.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. License Grant
+
+Subject to your compliance with all terms and conditions of this License and the Unreal® Engine EULA, You are granted a non-exclusive, worldwide, royalty-free license to use, copy, modify, and create derivative works of the Software for any purpose, including commercial purposes, subject to the revenue threshold conditions below.
+
+You are free to:
+- Use the Software for any purpose
+- Study how the Software works and adapt it to your needs
+- Redistribute the Software, modified or unmodified
+- Share your modifications with others
+- Use the Software for educational and research purposes
+- Create and distribute derivative works
+
+The only substantial limitations are:
+- Commercial licensing is required when any of the following thresholds are met:
+  * Annual revenue exceeds $1 million USD
+  * Company valuation exceeds $5 million USD
+  * Total funding raised exceeds $2 million USD
+  * Monthly active users exceed 100,000
+  * Part of a larger organization meeting any of these criteria
+- You must maintain all copyright notices and attributions
+- You may not use Kirigen LLC's trademarks or brand identity without permission
+- You may not hold Kirigen LLC liable (see warranty disclaimer)
+
+- Non-Commercial Use: The following entities may use the Software without a commercial license:
+  1. Entities below ALL of the following thresholds:
+     * Annual revenue under $1 million USD
+     * Company valuation under $5 million USD
+     * Total funding raised under $2 million USD
+     * Monthly active users under 100,000
+     * Not owned or controlled by any entity exceeding these thresholds
+     * Not part of a group of affiliated entities that collectively exceed these thresholds
+     
+     This includes:
+     * Small startups and companies
+     * Individual developers for personal projects
+     * Independent contractors and freelancers
+     * Non-profit institutions (excluding qualified research institutions)
+  
+  2. Qualified Academic and Research Use (exempt from financial thresholds):
+     * Accredited academic institutions conducting research
+     * Qualified research institutions, defined as:
+       - Government research laboratories and facilities
+       - Non-profit research institutions whose primary mission is scientific research
+       - Research institutions recognized by national or international research bodies
+       - Institutions deriving at least 80% of their funding from research grants, government funding, or educational endowments
+     * Individual researchers with current formal affiliation to qualified institutions
+     * Student projects and academic coursework at accredited institutions
+     * Academic publications and presentations
+     * Research collaborations between qualified institutions
+
+  All academic and research use must:
+     * Properly attribute Kirigen LLC in any publications or presentations
+     * Not be funded primarily by commercial entities
+     * Not be conducted on behalf of commercial entities
+
+- Commercial Use: A commercial license is required when ANY of the following apply:
+  * Annual revenue exceeds $1 million USD
+  * Company valuation exceeds $5 million USD
+  * Total funding raised exceeds $2 million USD
+  * Monthly active users exceed 100,000
+  * Any Content Platform Metric threshold is exceeded
+  * The entity is owned, controlled by, or affiliated with any organization meeting any of these criteria
+  * The Software is used as part of services provided to organizations meeting any of these criteria
+  * Independent contractors or consultants use the Software while working for organizations meeting any of these criteria
+  * The Software is integrated into products or services sold to organizations meeting any of these criteria
+  * Any use that involves charging fees for access to the Software or services built primarily upon the Software
+  * The entity is part of a group of affiliated entities that collectively exceed these thresholds
+  * The Software is used to create content for any channel or platform exceeding the Content Platform Metrics thresholds
+
+2. Limitations and Restrictions
+
+The rights granted under this License will terminate automatically and immediately, without notice from Kirigen LLC, if You fail to comply with any of its terms or conditions.
+
+This License requires only that you:
+- Maintain all copyright notices and attributions
+- Do not misrepresent the Software as your own original work
+- Comply with the revenue threshold for commercial use
+- Comply with the Unreal® Engine EULA
+
+We encourage but do not require:
+- Sharing improvements back to the community
+- Notifying us of interesting uses or modifications
+- Contributing to the project's development
+
+3. Modification and Redistribution Rights
+
+3.1 Modifications
+You may modify the Software provided that:
+- All modifications are clearly marked and dated
+- Original copyright notices and attributions are preserved
+- Modified versions carry prominent notices stating changes were made
+- Modified versions do not misrepresent their origin
+- Modified versions comply with all terms of this License
+
+3.2 Redistribution
+You may redistribute the Software and modifications provided that:
+- You include a copy of this License with all distributions
+- You clearly mark any modifications made
+- You do not remove or alter any copyright notices
+- You maintain all warranty disclaimers and liability limitations
+- Recipients agree to the terms of this License
+- Distribution complies with export control laws
+- Distribution includes all original documentation
+- You do not imply endorsement by Kirigen LLC
+
+3.3 Commercial Distribution
+Commercial distribution requires:
+- Prior written permission from Kirigen LLC
+- Compliance with commercial licensing terms
+- Proper documentation of all modifications
+- Maintenance of audit trails
+- Regular reporting of distribution metrics
+
+3. Intellectual Property Rights
+
+- Kirigen LLC owns the copyright to the original Software
+- This license grants you rights to use, modify, and distribute the Software as specified above
+- Your modifications and derivative works are your own intellectual property
+- You may freely use any algorithms, methodologies, or techniques learned from the Software
+- You maintain copyright over any original content you create using the Software
+- Kirigen LLC's trademarks and brand identity remain protected and require explicit permission for use
+
+4. AI-Generated Content and Liability
+
+- Content generated using the Software ("Generated Content") may not be subject to copyright under current U.S. law
+- Kirigen LLC makes no claims of ownership over Generated Content
+- Users are solely responsible for:
+  * Any Generated Content they create or cause to be created
+  * Ensuring Generated Content complies with applicable laws and regulations
+  * Any consequences arising from the use of Generated Content
+  * Obtaining necessary rights or permissions for any inputs used with the Software
+  * Ensuring Generated Content does not infringe upon third-party rights
+  * Compliance with data protection and privacy laws regarding training data
+  * Proper handling and security of any model weights or derivatives
+- Kirigen LLC is not liable for any Generated Content or its uses
+- You agree to defend and indemnify Kirigen LLC against any claims related to Generated Content
+- Any training data, model weights, or derivatives created using the Software must comply with applicable laws and regulations
+
+"Generated Content" means any output produced by or through use of the Software, including but not limited to:
+  a) AI-generated content, images, text, or data
+  b) Derivative works incorporating such content
+  c) Training data, model weights, or other AI artifacts
+  d) Content created for streaming or social media platforms
+  e) Modified or transformed versions of such content
+
+"Training Data" means any data used to train, fine-tune, or otherwise modify AI models, including:
+  a) Input data provided to the Software
+  b) Output data generated by the Software
+  c) Intermediate representations or embeddings
+  d) Model weights or parameters
+  e) Training logs and metadata
+
+"Assessment Period" means:
+  a) For revenue, valuation, and funding: Calendar quarters
+  b) For user metrics: Rolling 3-month averages
+  c) For content platform metrics: Monthly averages
+  d) For streaming metrics: Daily peaks averaged over a month
+  e) For social media metrics: 30-day rolling averages
+
+5. Commercial Licensing
+
+For commercial licensing inquiries, please contact Kirigen LLC at licensing@kirigen.co.
+Any use of the Software without appropriate licensing constitutes copyright infringement.
+
+6. Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. Limitation of Liability
+
+IN NO EVENT SHALL KIRIGEN LLC OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR PUNITIVE DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; BUSINESS INTERRUPTION; OR PERSONAL INJURY) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. Indemnification and Release
+
+By using the Software, you agree to:
+
+8.1 Indemnification
+Defend, indemnify, and hold harmless Kirigen LLC, its officers, directors, employees, contractors, agents, licensors, and successors from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to:
+a) Your use of the Software for any purpose
+b) Your violation of this License
+c) Your violation of applicable laws or regulations
+d) Any content, products, or services you develop or provide using the Software
+e) Any harm, damage, or loss incurred by third parties resulting from your use of the Software
+f) Any claims made by third parties relating to your use of the Software
+
+8.2 Release
+Release and forever discharge Kirigen LLC and its contributors from any and all claims, demands, damages, rights of action, or causes of action, present or future, whether the same be known or unknown, anticipated or unanticipated, relating to or arising from your use of the Software.
+
+8.3 Acknowledgment
+You expressly acknowledge and agree that:
+- You use the Software at your own risk
+- You are solely responsible for any output, results, or consequences
+- You will independently verify and validate any results
+- You will comply with all applicable laws and regulations
+- You assume all risks associated with your use of the Software
+
+The provisions of sections 7 and 8 shall survive any termination of this License.
+
+9. Compliance with Laws
+
+You agree to comply with all applicable laws and regulations in Your use of the Software, including:
+- Export control laws and regulations
+- Data protection and privacy laws
+- Intellectual property laws
+- Consumer protection laws
+
+9.1 Data Privacy and Protection
+
+You must comply with all applicable data protection and privacy laws, including but not limited to:
+a) General Data Protection Regulation (GDPR)
+b) California Consumer Privacy Act (CCPA)
+c) Other applicable regional or national privacy laws
+
+When using the Software, you are responsible for:
+- Obtaining necessary consents for data collection and processing
+- Implementing appropriate technical and organizational measures
+- Maintaining records of processing activities
+- Responding to data subject rights requests
+- Reporting data breaches as required by law
+- Ensuring lawful basis for data processing
+- Conducting impact assessments when required
+- Implementing data minimization practices
+- Ensuring secure data storage and transmission
+- Managing data retention and deletion
+
+For GDPR compliance specifically:
+- You are considered the Data Controller for any personal data processed
+- You must have a valid legal basis for processing personal data
+- You must provide privacy notices to data subjects
+- You must implement appropriate security measures
+- You must have data processing agreements with processors
+- You must maintain records of processing activities
+- You must report breaches within required timeframes
+
+10. Term and Termination
+
+- This License is effective until terminated
+- Kirigen LLC may terminate this License immediately upon any breach
+- Upon termination, You must cease all use of the Software and destroy all copies
+- All sections intended to survive termination will survive
+
+11. Governing Law and Jurisdiction
+
+This License shall be governed by and construed in accordance with the laws of the United States and the State of Delaware, without regard to its conflict of law provisions. Any legal suit, action, or proceeding arising out of or related to this License shall be instituted exclusively in the federal courts of the United States or the courts of the State of Delaware.
+
+12. Definitions
+
+"You" refers to any individual or entity that exercises the rights granted under this License.
+"Software" refers to the Cardinal System and any associated documentation files, including any updates, modifications, or derivatives thereof.
+"Commercial Use" means any use of the Software by an entity that meets ANY of the following criteria:
+  a) Has annual revenue exceeding $1 million USD
+  b) Has a company valuation exceeding $5 million USD
+  c) Has raised total funding exceeding $2 million USD
+  d) Has monthly active users exceeding 100,000
+  e) Is owned, controlled by, or affiliated with any organization meeting these criteria
+  f) Is part of a group of affiliated entities that collectively exceed these criteria
+
+"Company Valuation" means the most recent valuation of the entity as determined by:
+  a) The latest funding round
+  b) Professional valuation assessment
+  c) Acquisition price
+  d) Public market capitalization
+  e) Internal valuation for tax or accounting purposes
+  f) Any other formal valuation method
+
+"Total Funding Raised" means the cumulative amount of:
+  a) Venture capital investments
+  b) Angel investments
+  c) Seed funding
+  d) Crowdfunding
+  e) Government grants (excluding research grants for qualified institutions)
+  f) Convertible notes or SAFEs
+  g) Private equity investments
+  h) Corporate investments
+  i) Other forms of external investment or funding
+
+"Monthly Active Users" means the combined total of:
+  a) Unique users who interact with any product or service incorporating the Software within a calendar month
+  b) Unique viewers/subscribers across streaming platforms (e.g., Twitch, YouTube) where content featuring or created with the Software is distributed
+  c) Unique viewers/followers across social media platforms where content featuring or created with the Software is distributed
+  d) Unique viewers of video-on-demand content featuring or created with the Software
+  e) Subscribers to channels or accounts primarily featuring content created with the Software
+  f) Members of communities centered around products or services using the Software
+
+For the purpose of this definition:
+  - Numbers are calculated as an average over the previous three months
+  - "Unique viewers" on streaming platforms counts anyone watching for more than 1 minute
+  - Multiple platforms or channels controlled by the same entity are counted collectively
+  - For mixed-content channels, if the Software is featured in more than 20% of content, all channel metrics apply
+  - Metrics include both live and archived content
+  - Metrics include all geographic regions and platform variants
+
+"Content Platform Metrics" means any of the following that exceed platform-specific thresholds:
+  a) Twitch: 
+     - Average concurrent viewers over 1,000
+     - Channel followers over 50,000
+     - Subscriber count over 2,500
+  b) YouTube:
+     - Channel subscribers over 100,000
+     - Average video views over 25,000
+     - Watch time over 100,000 hours/month
+  c) Other Social Media:
+     - Followers/subscribers over 100,000
+     - Average post engagement over 10,000
+     - Average content views over 50,000
+
+Meeting any Content Platform Metric threshold triggers the commercial license requirement.
+
+"Affiliated Entities" means any group of organizations that are:
+  a) Under common control or ownership
+  b) Part of the same corporate group
+  c) Connected through substantial shared ownership (20% or more)
+  d) Operating under shared branding or identity
+  e) Collaborating on the relevant product or service
+
+"Qualified Research Institution" means an organization that:
+  a) Is formally recognized by appropriate national or international research bodies
+  b) Has research as its primary organizational mission
+  c) Derives at least 80% of their funding from research grants, government funding, or educational endowments
+  d) Operates on a non-profit basis
+  e) Publishes research findings in peer-reviewed journals or equivalent academic venues
+  f) Is not primarily engaged in commercial activities or product development
+
+"Commercial Use Assessment" means:
+  a) Companies must assess their status against the thresholds quarterly
+  b) Any quarter where thresholds are exceeded triggers the commercial license requirement
+  c) Once a commercial license is required, it remains required for at least 12 months
+  d) Companies must notify Kirigen LLC within 30 days of exceeding any threshold
+
+13. Unreal Engine Integration
+
+13.1 Plugin Status
+- This Software is an open source plugin designed specifically for Unreal Engine
+- It must be used within the Unreal Engine environment
+- It follows Unreal Engine plugin architecture and best practices
+- It is subject to Unreal Engine's technical requirements and constraints
+
+13.2 Unreal Engine Compliance
+- This Software is designed to work with Unreal Engine and is subject to Epic Games' terms and conditions
+- Nothing in this license shall be construed to grant rights to Unreal Engine or Epic Games' intellectual property
+- If any portion of this license conflicts with the Unreal® Engine EULA, the Unreal® Engine EULA shall take precedence
+- You must maintain compliance with both this license and the Unreal® Engine EULA
+- Your use of Unreal Engine features, APIs, and content must comply with Epic Games' licensing requirements
+- Any redistribution must comply with Epic Games' distribution requirements for plugins
+
+13.3 Plugin Distribution
+- Distribution through the Unreal Engine Marketplace requires additional agreements
+- Distribution must follow Epic Games' plugin packaging guidelines
+- Plugin versioning must align with supported Unreal Engine versions
+- Documentation must clearly state Unreal Engine version compatibility
+- Support for different Unreal Engine versions is at Kirigen LLC's discretion
+
+13.4 Integration Requirements
+- The Software must be used as a plugin within a valid Unreal Engine installation
+- Integration with other engines or standalone use is not permitted
+- Modifications must maintain compatibility with Unreal Engine architecture
+- Custom builds must comply with Unreal Engine build system requirements
+- Third-party dependencies must be compatible with Unreal Engine licensing
+
+14. Severability
+
+If any provision of this License is held to be unenforceable or invalid, that provision will be enforced to the maximum extent possible, and the other provisions will remain in full force and effect.
