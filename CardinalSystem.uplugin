@@ -13,12 +13,12 @@
 	"CanContainContent": true,
 	"IsBetaVersion": true,
 	"IsExperimentalVersion": true,
-	"Installed": false,
+	"Installed": true,
 	"Modules": [
 		{
 			"Name": "CardinalSystem",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "PreDefault"
 		}
 	]
 }

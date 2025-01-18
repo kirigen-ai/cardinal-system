@@ -1,4 +1,4 @@
-﻿/**  
+/**  
 	This source code is licensed under the Kirigen Non-Commercial License v1.0
 	that can be found in the LICENSE file in the root directory.
 
@@ -9,19 +9,4 @@
 	a separate license (contact: licensing@kirigen.co)
 */
 
-#pragma once
-
-#include <CoreMinimal.h>
-#include <Agents/Agent.h>
-
-#include "SystemAgent.generated.h"
-
-/**
- * Base class for Agent Systems in the Cardinal System Plugin.
- */
-UCLASS(abstract, BlueprintType, Blueprintable, META = (DisplayName = "System Agent"))
-class CARDINALSYSTEM_API USystemAgent : public UAgent
-{
-	GENERATED_BODY()
-
-};
+#include <Pipelines/ChatPipeline.h>
